@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.lemaralife",
+  "appName": "LemaraLife",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
